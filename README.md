@@ -1,5 +1,4 @@
-# l4d2-Melee-Spawn-Control 
-# Author: v10
+# l4d2-Melee-Spawn-Control by V10
 
 https://forums.alliedmods.net/showthread.php?t=222535
 
